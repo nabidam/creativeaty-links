@@ -14,7 +14,7 @@ const links = [
 		id: 2,
 		title: "Harcast",
 		description:
-			"هرکست، پادکستی از هرکس برای هرکس, هرکست خلق میشود به نویسندگی و روایتگریِ هُنرجویان و هنرمندانِ @creativ.eaty | ساخته محمدرضا فقیهی | @mr.faghihi",
+			"هرکست، پادکستی از هرکس برای هرکس, هرکست خلق میشود به نویسندگی و روایتگریِ هُنرجویان و هنرمندانِ @creativ.eaty",
 		logo: "/images/harcast.jpg?height=48&width=48",
 		link: "https://www.instagram.com/harcastt/",
 	},
@@ -24,6 +24,14 @@ const links = [
 		description: "Daily dose of creative sparks - by my students - @mr.faghihi",
 		logo: "/images/creativeathings.jpg?height=48&width=48",
 		link: "https://www.instagram.com/creativeathings/",
+	},
+	{
+		id: 4,
+		title: "Movarap",
+		description:
+			"Rap & Hip-Hop Music - Created by @creativ.eaty Group Students & Artists",
+		logo: "/images/movarrap.jpg?height=48&width=48",
+		link: "https://www.instagram.com/movarrap/",
 	},
 ];
 

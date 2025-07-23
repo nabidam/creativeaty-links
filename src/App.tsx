@@ -38,8 +38,8 @@ const links = [
 export default function App() {
 	return (
 		<div className="min-h-screen bg-background">
-			<div className="container mx-auto px-4 py-12">
-				<div className="text-center mb-12">
+			<div className="container mx-auto px-4 py-6">
+				<div className="text-center mb-6">
 					<p className="text-xl text-muted-foreground max-w-2xl mx-auto">
 						ما را بیشتر بشناسید
 					</p>
